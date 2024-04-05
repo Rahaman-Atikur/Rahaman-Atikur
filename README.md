@@ -20,8 +20,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/atikur rahaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atikur rahaman" height="30" width="40" /></a>
-<a href="https://fb.com/atikur rahaman shuvo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="atikur rahaman shuvo" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/atikur-rahaman-504526278" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atikur rahaman" height="30" width="40" /></a>
+<a href="https://www.facebook.com/atiman.rahman/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="atikur rahaman shuvo" height="30" width="40" /></a>
 <a href="https://instagram.com/atik_shuvo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="atik_shuvo" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@atikur_rahaman_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@atikur_rahaman_1" height="30" width="40" /></a>
 </p>
