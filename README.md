@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahaman-atikur&label=Profile%20views&color=0e75b6&style=flat" alt="rahaman-atikur" /> </p>
 
-- I am Currently doing a masters degree in Cyber Security [University of Hertfordshire](https://www.herts.ac.uk/)
+- I have done  masters degree in Cyber Security [University of Hertfordshire](https://www.herts.ac.uk/)
 
 - 🌱 I’m currently learning **Problem Solving, Data Structures, Algorithm**
 
